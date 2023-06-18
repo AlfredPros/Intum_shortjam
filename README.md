@@ -1,5 +1,5 @@
 # Intum_shortjam
-A local game jam I did for less than a week with a friend
+A local game jam I did for ~5 days with a friend
 
 This game is an idea we had about combining dating sim and rhythm game. So, date those girls while dancing! XD
 
